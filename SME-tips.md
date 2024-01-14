@@ -46,4 +46,4 @@ With luck, you should now have an interview scheduled. Afterward, review your no
 
 Building a robust working relationship with the SME leads to high-quality technical documentation. Remember, documentation is a means of knowledge sharing among team members, departments, and organizations—crucial for growth, innovation, and continuous improvement.
 
-<img src=.\images\00006-1266185086.png width="512" alt="Stylized image of an interview in progress" style="float: right;">
+<img src=.\images\00006-1266185086.png width="512" alt="Stylized image of an interview in progress">
