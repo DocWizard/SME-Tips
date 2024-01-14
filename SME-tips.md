@@ -2,7 +2,7 @@
 
 ><B>Knowledge should be shared.</b> 
 
-Technical writers often work with subject matter experts (SME). These subject matter experts know how to do things that technical writers need to describe. It is important that technical writers work well with subject matter experts. This article outlines what to do when this cooperation does not work well.
+Technical writers often work with subject matter experts (SME). These subject matter experts know how to do things that technical writers need to describe. It is important that technical writers work well with subject matter experts. This article will tell technical writers what to do when this cooperation does not work well.
 
 ## Reasons for bad communication
 <img src=.\images\00006-1571621898.png width="200" alt="Stylized image of an expert" style="float: right;">
@@ -19,28 +19,26 @@ Here is what can help you when you want to meet with a subjec matter expert.
 
 * <B>Be prepared</B> - Before the meeting, learn about the project or document you work on. Research the subject. Understand basic concepts and words.
 * <B>Have questions ready</B> - Know what is the goal of your meeting. Ask questions leading to that goal. Send these questions to the subject matter expert before the meeting. 
-* <B>Time and place of the meeting</B> - Talk to the expert about the form of the meeting. It can be in person, by telephone, or by a video call. 
+* <B>Time and place of the meeting</B> - Think about the form of the meeting. For example, it can be in person, by telephone, or by a video call. 
 
-These things all help with 
+This will help you have a good meeting with the subject matter expert.
 
-Remember - by adequately preparing for the interview, you can maximize the efficiency of the interaction, gather accurate information, and build a strong working relationship with the SME, leading to high-quality technical documentation. 
+## How to meet the expert
 
-## Time to reach out
+When you are ready, try to speak to the expert. Do not send them too many messages. You can use email, Slack or any other way. 
 
-When ready, reach out to the expert through a preferred channel—email, Slack, or another medium. Use multiple channels judiciously to avoid overwhelming the expert.
+Be polite. Do not write very long messages. Clearly say what you want to talk about. Say what information you need, and how soon do you need it. Work with the subject matter expert to select a suitable time and place for the meeting. 
 
-Be polite and efficient in your communication. <b> Clearly outline the purpose of your interview and the urgency of their input. Communicate specific information needed, project scope, and timelines. </b> Acknowledge their busy schedule; offer flexible communication options and respect their time constraints. Highlight the critical role their expertise plays in meeting deadlines.
+While you wait for the expert's reply, you can also try to find documentation that may answer your questions.
 
-While awaiting the SME's response, explore existing documentation or consult knowledgeable colleagues or secondary sources for preliminary information. Who knows - you might find answers to many questions on your own.
+If the subject matter expert does not reply, you can try to find another expert who knows what you need to know. Even if this expert does not know everything, they can still be helpful.  
 
-If your chosen SME doesn't respond - explore if there are other SMEs or experts within the organization who might be able to provide similar insights or information. While maintaining accuracy is crucial, an alternative source might help fill the gap temporarily. You can also explore publicly available resources or documentation related to the subject matter. While not ideal, these resources might offer insights that partially address your information needs.
+Be patient, but do not stop give up if your expert does not reply. Remember that this meeting is important for your work. If the expert's help is very necessary, you can try to contact their supervisor or manager. Only do this if you have no other choice.   
 
-Patience is key, but persistence pays off. Remember that you're not asking for a personal favor - this is a crucial part of your job. If the situation persists and impacts the project's progress, consider reaching out to the SME's supervisor or manager. Politely explain the situation and seek their support in facilitating communication or involvement. This should be treated as the nuclear option, however, and will earn you no favor from anyone involved. 
+## Good job
 
-## Mission accomplished
+After you meet with the expert, remember to read your notes again. See if they are clear and complete. If they are not clear or complete, ask the expert to explain. Thank the expert for their time.
 
-With luck, you should now have an interview scheduled. Afterward, review your notes for clarity and completeness. Seek clarification through follow-up communication if any points remain unclear. Always thank the SME for their time and valuable input!
-
-Building a robust working relationship with the SME leads to high-quality technical documentation. Remember, documentation is a means of knowledge sharing among team members, departments, and organizations—crucial for growth, innovation, and continuous improvement.
+Always try to have good relations with your experts. This will help you with your own work. 
 
 <img src=.\images\00006-1266185086.png width="512" alt="Stylized image of an interview in progress">
