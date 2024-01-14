@@ -1,30 +1,27 @@
-# Stuck in Limbo: How to Handle Radio-Silent SMEs in Technical Writing
+# What to do when Subject Matter Experts do not respond 
 
-><B>Knowledge is meant to be shared.</b> 
+><B>Knowledge should be shared.</b> 
 
-In the realm of technical writing, the collaboration between writers and Subject Matter Experts (SME) thrives on knowledge sharing. SMEs hold specialized knowledge in their respective fields, and their role involves imparting this knowledge to technical writers. Conversely, technical writers translate this expertise into accessible and understandable content for a broader audience - internal or external. 
+Technical writers often work with subject matter experts (SME). These subject matter experts know how to do things that technical writers need to describe. It is important that technical writers work well with subject matter experts. This article outlines what to do when this cooperation does not work well.
 
-The free flow and sharing of knowledge among SMEs, writers, and broader teams are fundamental pillars that drive success, efficiency, and the creation of high-quality technical documentation. 
-
-In an ideal world, this flow of knowledge is smooth, friendly and uninterrupted. But anyone who has tried to schedule an interview with an expert knows — it's rarely that simple. Experts are busy people, and their knowledge and skills are in high demand. 
-
-## Why do SMEs go MIA?
+## Reasons for bad communication
 <img src=.\images\00006-1571621898.png width="200" alt="Stylized image of an expert" style="float: right;">
 
-Subject Matter Experts might become unresponsive due to various reasons - both professional and personal. To become an expert SME tamer, you must at least try to understand their perspective:
+There are many reasons why subject matter experts may not be able to work together with technical writers. 
 
-* SMEs often juggle multiple responsibilities, including their primary duties, projects, meetings, and deadlines. They might become unresponsive due to their heavy workload and time constraints, making it challenging to prioritize additional requests. An interview with you - while important - adds more to their plate.
-* Sometimes, SMEs may not fully comprehend the importance or urgency of their input for the technical writing project. They might not realize how their expertise directly contributes to creating accurate documentation or the impact of their unresponsiveness on project timelines. They might also be unfamiliar with or inexperienced in collaborating with technical writers. They might not understand their role or how to effectively engage in the collaboration process, leading to hesitation or avoidance.
-* In some cases, communication barriers such as language differences, misinterpretation of the request, or difficulties in grasping the scope of the project may lead to SMEs being unresponsive. These hurdles can hinder effective collaboration.
-* Personal reasons such as illness, family emergencies, or unexpected events can also cause SMEs to become unresponsive unexpectedly - take this into account if a deadline is looming on the horizon.
+* Subject matter experts have their own work to do. They may not have time to assist you with your work. 
+* Subject matter experts may not know that technical writers need their help. Some experts never worked with technical writers before. Some experts do not understand the importance of this work.
+* An illness, a family emergency or other events may cause the subject matter expert to unexpectedly stop responding to your questions.   
 
-## What to do before the interview?
+## What to do before the meeting.
 
-Fear not, dear tech writer, for not all hope is lost. There are steps you can take before reaching out to the SME to minimize the chances of being brushed off:
+Here is what can help you when you want to meet with a subjec matter expert.
 
-* <B>Come prepared</B> - Familiarize yourself with the project or document you're working on. Conduct preliminary research on the subject matter. Understand basic concepts and terminologies related to the topic. This will not only help you ask informed and relevant questions during the interview. Showing your expertise upfront can encourage SMEs to assist you.
-* <B>Extablish interview objectives and prepare questions in advance</b> - this is as true in journalism as it is in tech writing. You need to determine the specific goals you aim to achieve during the interview. Whether it's to gather technical details, understand processes, or seek clarification on specific points, having clear objectives helps in steering the conversation in the right direction. Sending these questions to the expert beforehand can also help streamline the conversation.
-* <B>Schedule and Logistics</B> - Figure out the best way of conducting the interview -  whether it's in-person, via phone, video call, or email. Ensure you have all necessary tools (notebooks, recording devices, etc.) ready for your talk.
+* <B>Be prepared</B> - Before the meeting, learn about the project or document you work on. Research the subject. Understand basic concepts and words.
+* <B>Have questions ready</B> - Know what is the goal of your meeting. Ask questions leading to that goal. Send these questions to the subject matter expert before the meeting. 
+* <B>Time and place of the meeting</B> - Talk to the expert about the form of the meeting. It can be in person, by telephone, or by a video call. 
+
+These things all help with 
 
 Remember - by adequately preparing for the interview, you can maximize the efficiency of the interaction, gather accurate information, and build a strong working relationship with the SME, leading to high-quality technical documentation. 
 
